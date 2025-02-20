@@ -1,6 +1,6 @@
 name : ci
 
-runs_on:
+on:
   push:
     branches : [main]
 jobs:
