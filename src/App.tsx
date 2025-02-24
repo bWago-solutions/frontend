@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-const App = () => {
-  return <h1>Welcome</h1>;
-};
 
-export default App;
-=======
 import "@mantine/core/styles.css";
 import { theme } from "./styles/colors";
 import { MantineProvider } from "@mantine/core";
@@ -20,4 +14,3 @@ export default function App() {
     </MantineProvider>
   );
 }
->>>>>>> Stashed changes
